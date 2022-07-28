@@ -4,7 +4,7 @@ Write a program to find numbers which
 are present in first array, 
 but not present in the second array.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

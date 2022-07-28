@@ -2,7 +2,7 @@
 Given an integer A, generate a square matrix filled with
  elements from 1 to A2 in spiral order.
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 */
 #include <iostream>
 using namespace std;

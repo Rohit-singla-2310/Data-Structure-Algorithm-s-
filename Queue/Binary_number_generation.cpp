@@ -2,7 +2,7 @@
 An Interesting Method to Generate Binary Numbers 
 from 1 to n
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

@@ -1,7 +1,7 @@
 /*
 Write a program to implement AVL Tree algorithm.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<iostream>
 using namespace std;

@@ -3,7 +3,7 @@ Write a program to represent a graph using adjacency
 list and perform basic operations like degree (in/out) 
 of a vertex, adjacent vertices, number of edges, etc.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<iostream>
 using namespace std;

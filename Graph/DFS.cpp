@@ -1,7 +1,7 @@
 /*
 Write a program to implement depth first search algorithm.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

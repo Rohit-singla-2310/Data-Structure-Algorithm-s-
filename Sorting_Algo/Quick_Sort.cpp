@@ -1,6 +1,6 @@
 /*
 Quick Sort
-Made by: Gaurav Baweja
+Made by: Rohit Singla
 */
 #include<iostream>
 using namespace std;

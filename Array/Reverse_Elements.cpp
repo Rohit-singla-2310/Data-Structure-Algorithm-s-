@@ -1,7 +1,7 @@
 /*
 Reverse the elements of an array
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 
 */
 #include <iostream>

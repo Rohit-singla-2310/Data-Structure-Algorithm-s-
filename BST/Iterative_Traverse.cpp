@@ -2,7 +2,7 @@
 Write a non-recursive function to traverse 
 a BST in in-order traversal using stack.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

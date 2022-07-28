@@ -4,7 +4,7 @@ Q-1  Develop a menu driven program for the following operations of on a Circular
 (b) Deletion of a specific node, say 'Delete Node 60'. That mean the node to be deleted may appear as a head node, last node or a node in between.
 (c) Search for a node.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

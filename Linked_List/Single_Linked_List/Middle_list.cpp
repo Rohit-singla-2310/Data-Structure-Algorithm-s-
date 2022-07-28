@@ -1,7 +1,7 @@
 /*
 Qn Write a program to find the middle of a linked list.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

@@ -5,7 +5,7 @@ Write a program to implement the following operations on a Sparse Matrix,
 (b) Addition of two matrices.
 (c) Multiplication of two matrices.
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 */
 #include <iostream>
 using namespace std;

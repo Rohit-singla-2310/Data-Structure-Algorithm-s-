@@ -9,7 +9,7 @@ Arrays
 5.SEARCH
 6.EXIT
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 */
 
 #include <iostream>

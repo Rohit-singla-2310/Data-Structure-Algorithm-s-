@@ -1,7 +1,7 @@
 /*
 Q-3(a). Write a program to find size of Doubly Linked List.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

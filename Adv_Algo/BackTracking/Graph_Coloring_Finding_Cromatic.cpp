@@ -2,7 +2,7 @@
 /*
 Graph Coloring 2 Problem
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

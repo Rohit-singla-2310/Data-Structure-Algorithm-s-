@@ -2,7 +2,7 @@
 Given a matrix of m * n elements (m rows, n columns),
  return all elements of the matrix in spiral order.
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 */
 #include <iostream>
 #define m 5

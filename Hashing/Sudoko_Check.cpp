@@ -6,7 +6,7 @@ Input: ["53..7....", "6..195...", ".98....6.", "8...6...3", "4..8.3..1",
 Note: A valid Sudoku board (partially filled) is not necessarily solvable. 
 Only the filled cells need to be validated.
 
-Made By: Gaurav Baweja
+Made By: GRohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

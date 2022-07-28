@@ -9,7 +9,7 @@ Qn  Develop a menu driven program for the following operations of on a Singly Li
 (g) Search for a node and display its position from head.
 (h) Display all the node values.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

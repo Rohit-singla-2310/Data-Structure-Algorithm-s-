@@ -4,7 +4,7 @@ Radix Sort
 from least significant expr to most significant expr. 
 Radix sort uses counting sort as a subroutine to sort 
 positive elements.
-Made by: Gaurav Baweja
+Made by: Rohit Singla
 */
 #include<iostream>
 using namespace std;

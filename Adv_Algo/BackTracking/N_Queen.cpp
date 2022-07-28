@@ -1,7 +1,7 @@
 /*
 n-queen Problem
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

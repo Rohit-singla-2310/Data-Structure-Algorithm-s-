@@ -1,7 +1,7 @@
 /*
 Counting sort is a linear time sorting algorithm 
 that sort in O(n+k) time.
-Made by: Gaurav Baweja
+Made by: Rohit Singla
 */
 #include<iostream>
 using namespace std;

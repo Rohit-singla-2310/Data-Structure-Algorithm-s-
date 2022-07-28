@@ -2,7 +2,7 @@
 Write a program to check if a doubly 
 linked list of characters is palindrome or not.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

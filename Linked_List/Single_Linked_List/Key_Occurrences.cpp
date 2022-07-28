@@ -6,7 +6,7 @@ all the occurrences. For example, if given linked list is
 be 4. After deletion of all the occurrences of 1, the 
 linked list is 2->2->3.
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include<iostream>
 using namespace std;

@@ -3,7 +3,7 @@ Write a program that, given an array A[] of n numbers and
 another number x, determines whether or not there exist 
 two elements in A[] whose sum is exactly x.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

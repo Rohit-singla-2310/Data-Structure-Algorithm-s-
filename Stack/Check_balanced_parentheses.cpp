@@ -1,7 +1,7 @@
 /*
 Write a program that checks if an expression has balanced parentheses.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<iostream>
 using namespace std;

@@ -4,7 +4,7 @@ frequent element an array. If there are multiple
 elements that are appearing the maximum number 
 of times, then print any one of them.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

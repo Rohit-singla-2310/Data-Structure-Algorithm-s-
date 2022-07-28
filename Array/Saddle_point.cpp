@@ -6,7 +6,7 @@ larger than or equalto every number in its
 column, and smaller than or equal to every 
 number in its row.
 
-Made By : Gaurav baweja
+Made By : Rohit Singla
 */
 #include <iostream>
 #define m 3

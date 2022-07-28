@@ -1,7 +1,7 @@
 /*
 Insertion Sort
 :Finding the correct position of each element
-Made by: Gaurav Baweja
+Made by: Rohit Singla
 */
 #include<iostream>
 using namespace std;

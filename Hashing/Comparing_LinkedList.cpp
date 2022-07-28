@@ -6,7 +6,7 @@ input Linked Lists and intersection list contains common
 elements present in the given lists. Order of elements in 
 output lists doesn’t matter.
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 */
 #include<bits/stdc++.h>
 using namespace std;

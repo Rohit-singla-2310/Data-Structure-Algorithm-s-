@@ -3,7 +3,7 @@
 # CSE 
 ---
 <div align = "left">
-### DS-Algo
+# DS-Algo
 ---
 
 This is the repo of Data Structure and Algorithms implemented in **C++**. 

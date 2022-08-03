@@ -2,6 +2,7 @@
 
 # CSE 
 ---
+<div align = "left">
 ### DS-Algo
 ---
 
